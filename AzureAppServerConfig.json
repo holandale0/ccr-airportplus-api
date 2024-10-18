@@ -1,0 +1,47 @@
+[
+  {
+    "name": "DB_DATABASE",
+    "value": "CCR",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_HOST",
+    "value": "db-opahccr.database.windows.net",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_PASSWORD",
+    "value": "T@s&T3c01",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_PORT",
+    "value": "1433",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_USER",
+    "value": "ccr_opah",
+    "slotSetting": true
+  },
+  {
+    "name": "ENV_SILENT",
+    "value": "true",
+    "slotSetting": true
+  },
+  {
+    "name": "HOST",
+    "value": "0.0.0.0",
+    "slotSetting": true
+  },
+  {
+    "name": "PORT",
+    "value": "80",
+    "slotSetting": true
+  },
+  {
+    "name": "WEBSITE_HTTPLOGGING_RETENTION_DAYS",
+    "value": "2",
+    "slotSetting": false
+  }
+]

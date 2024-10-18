@@ -1,0 +1,3 @@
+USE CCR;
+
+SELECT * FROM Company;
